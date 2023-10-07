@@ -32,7 +32,16 @@ person1.displayDetails();
 console.log("-------------------------");
 person2.displayDetails();
 
-
+// ot 
+Name: SOWBARANIKA ESWARI
+Age: 30
+Email: SOW@example.com
+Adult: Yes
+-------------------------
+Name: MUKESH RAJ
+Age: 16
+Email: MUKESH@example.com
+Adult: No
 
 
 

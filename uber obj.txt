@@ -22,3 +22,7 @@ const time = 15; // 15 minutes
 
 const price = calculator.calculatePrice(distance, time);
 console.log(`The estimated Uber price is $${price.toFixed(2)}`);
+
+// ot 
+The estimated Uber price is $12.50
+

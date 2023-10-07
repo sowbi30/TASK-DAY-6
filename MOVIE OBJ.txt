@@ -25,3 +25,7 @@ const movies = [
 const pgMovies = Movie.getPG(movies);
 
 console.log(pgMovies);
+
+//ot 
+[ Movie { title: 'Movie 1', studio: 'Studio 1', rating: 'PG' },
+  Movie { title: 'Movie 3', studio: 'Studio 3', rating: 'PG' } ]
